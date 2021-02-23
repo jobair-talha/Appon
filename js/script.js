@@ -31,6 +31,7 @@ $('.user-text').slick({
   slidesToScroll: 1,
   arrows: false,
   asNavFor: '.user-img',
+  Fade: 0,
 });
 
 // Feedback img Slider
